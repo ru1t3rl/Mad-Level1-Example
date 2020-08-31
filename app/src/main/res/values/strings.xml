@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Mad Level1 Example</string>
     <string name="animal_question">What kind of animal is this?</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
 </resources>
